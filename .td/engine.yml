@@ -1,1 +1,8 @@
 environment: AWS
+instance_type: r5d.4xlarge
+instance_count: 2
+vpc_id: vpc-1ebf5b78
+subnet_id: subnet-0a87e44b886729fb5
+region: us-west-2
+availability_zones:
+    - us-west-2c
